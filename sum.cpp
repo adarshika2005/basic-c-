@@ -2,8 +2,10 @@
 using namespace std;
 int main()
 {
-    int a=1,b=5,sum;
+    int a=7;
+    int b=9;
+    int sum;
     sum=a+b;
-    cout<<"the value of sum is "<<sum<<endl;
+    cout<<"the sum of a+b is "<<sum<<endl;
     return 0;
 }
